@@ -9,10 +9,15 @@ This Flutter app showcases my journey in learning and implementing various widge
 🌈 Key Features:
 
 Categories Screen: Explore a variety of meal categories.
+
 Category Pages: Dive into dedicated screens for each meal category, presenting a delightful list of meals.
+
 Meal Details Screen: Discover the details of each delectable meal with a dedicated description screen.
+
 Navigation Bottom Bar: Seamlessly switch between the Categories page and the Favorites page.
+
 Favorites Page: Save your cherished meals to the Favorites page, which also serves as an easy-to-use interface for adding new meals.
+
 Drawer with Filters: Open the side drawer to reveal filter options such as gluten-free, lactose-free, and more, using intuitive SwitchTile controls.
 
 🛠️ Technologies Used:
